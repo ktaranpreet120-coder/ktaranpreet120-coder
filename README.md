@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Taranpreet Kaur
 
-<!--
-**ktaranpreet120-coder/ktaranpreet120-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 1st Year Student  
+💻 Aspiring Web Developer  
+🌱 Currently learning C, C++ and Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate beginner in the field of programming and web development.  
+Currently pursuing my Bachelor of Computer Applications (BCA), I enjoy learning new technologies and building small projects to improve my skills.
+
+---
+
+## 💡 Skills & Learning
+
+- 🔹 C Programming  
+- 🔹 C++ (OOP Concepts)  
+- 🔹 HTML, CSS (Web Design)  
+- 🔹 Basic JavaScript (Learning)  
+
+---
+
+## 📂 My Projects
+
+Here are some of the areas I have worked on:
+
+- 📘 C++ Programs (OOP, Arrays, Functions, File Handling)
+- 📊 Basic Programming Logic Building
+- 🌐 Beginner Web Design Projects (Coming Soon)
+
+---
+
+## 🎯 Goals
+
+- Become a skilled Web Developer  
+- Learn advanced JavaScript and frameworks  
+- Build real-world projects  
+- Contribute to open-source  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ktaranpreet120-coder  
+
+---
+
+## ⭐ Fun Fact
+
+I love turning ideas into code and learning something new every day!
