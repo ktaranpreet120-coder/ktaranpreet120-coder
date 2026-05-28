@@ -30,6 +30,7 @@ Here are some of the areas I have worked on:
 - https://github.com/ktaranpreet120-coder/C-Sourcefile
 - 📊 Basic Programming Logic Building
 - https://ktaranpreet120-coder.github.io/Aura-Street/
+- https://ktaranpreet120-coder.github.io/premium-cake-shop/
 - 🌐 Beginner Web Design Projects (Coming Soon)
 
 ---
